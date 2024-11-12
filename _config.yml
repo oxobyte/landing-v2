@@ -3,7 +3,7 @@ owner: PT. Oxobyte Teknologi Indonesia
 email: maulana.robert.mr@gmail.com
 description: Oxobyte is a technology company committed to developing innovative Micro SaaS solutions designed to empower communities in enhancing their economies and optimizing software development.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oxobyte.co" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oxobyte.com" # the base hostname & protocol for your site, e.g. http://example.com
 language: en
 twitter_username:
 github_username:
